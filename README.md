@@ -45,11 +45,6 @@ Mon parcours m’a également permis d’acquérir une solide expérience **mana
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainMOUSSILOU&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainMOUSSILOU&layout=compact&theme=radical)  
 
----
-
-## 🐍 Animation des contributions  
-
-![Snake animation](https://github.com/RomainMOUSSILOU/RomainMOUSSILOU/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
