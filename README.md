@@ -1,12 +1,12 @@
-# 👋 Bienvenue sur mon profil GitHub  
+# 👋 Welcome ! 
 
-## 🧑‍💻 Qui suis-je ?  
-Je suis un **développeur front-end** passionné, spécialisé dans :  
+## 🧑‍💻 About Me  
+I’m a **Front-End Developer** passionate about building modern, scalable, and user-friendly interfaces with:  
 ✨ **JavaScript | Vue.js | React | React Native | HTML | CSS**  
 
-Mon parcours m’a également permis d’acquérir une solide expérience **managériale**, ce qui me donne une double compétence :  
-- **Techniques** → création d’interfaces modernes, performantes et accessibles  
-- **Humaines** → management, communication et travail d’équipe  
+I also bring a strong **managerial background**, giving me a dual expertise:  
+- **Technical** → crafting performant and accessible front-end applications  
+- **Human** → leadership, communication, and teamwork  
 
 ---
 
@@ -23,32 +23,32 @@ Mon parcours m’a également permis d’acquérir une solide expérience **mana
 
 ## 🤝 Soft Skills & Management  
 
-🌟 Leadership & accompagnement d’équipes  
-💬 Communication claire et constructive  
-📅 Gestion de projet (Agile / Scrum)  
-🧩 Résolution de problèmes & mindset orienté solution  
-⚡ Capacité d’adaptation et créativité  
+🌟 Team leadership & mentoring  
+💬 Clear and constructive communication  
+📅 Project management (Agile / Scrum)  
+🧩 Problem-solving & solution-oriented mindset  
+⚡ Adaptability and creativity  
 
 ---
 
-## 🚀 Ce que j’aime  
+## 🚀 What I Enjoy  
 
-- Travailler sur des projets **collaboratifs et innovants**  
-- Construire des **applications scalables et accessibles**  
-- **Apprendre en continu** et partager mes connaissances  
-- Allier **technique** & **management** pour créer de la valeur  
+- Working on **collaborative and innovative projects**  
+- Building **scalable and accessible applications**  
+- **Continuous learning** and sharing knowledge  
+- Combining **technical expertise** & **management skills** to create value  
 
 ---
 
-## 📊 Mes Stats GitHub  
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainMOUSSILOU&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainMOUSSILOU&layout=compact&theme=radical)  
 
-
 ---
 
-## 📫 Me contacter  
+
+## 📫 Contact  
 
 📌 [LinkedIn](#)  
 🌍 [Portfolio](#)  
